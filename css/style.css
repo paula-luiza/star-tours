@@ -160,7 +160,7 @@ button:focus {
 }
 
 .title_color {
-  color: #222222;
+  color: #f7f7f7;
 }
 
 .title_w {
@@ -731,7 +731,7 @@ button:focus {
 }
 
 .blog_banner .bg-parallax {
-  background: url(../image/banner/banner-1.jpg) no-repeat scroll center center;
+  background: url(../image/banner/star_tours_experiencias_shows_musicais.jpg) no-repeat scroll center center;
 }
 
 .blog_banner .banner_content {
@@ -830,7 +830,7 @@ button:focus {
   font-size: 18px;
   line-height: 38px;
   font-weight: 600;
-  color: #222222;
+  color: #d2d2d2;
   margin-bottom: 0px;
 }
 
@@ -851,7 +851,7 @@ button:focus {
 }
 
 .facilities_area .bg-parallax {
-  background: url("../image/facilites_bg.jpg") no-repeat scroll center 0/cover;
+  background: url("../image/star_tours_viagens_espaconave.jpg") no-repeat scroll center 0/cover;
   opacity: 0.15;
 }
 
@@ -893,6 +893,74 @@ button:focus {
 .about_content p {
   padding: 18px 0px 30px;
 }
+
+/*============== Ship Transportation ================ */
+
+
+.ships_area{
+  background-color: #202020;
+
+}
+
+.ship_title_color{
+  color: #f8f8f8;
+}
+
+.ship_item {
+  margin-bottom: 30px;
+}
+
+.ship_item .hotel_img {
+  position: relative;
+  margin-bottom: 10px;
+  overflow: hidden;
+  border-radius: 10px;
+}
+
+.ship_item .hotel_img img {
+  -webkit-transition: all 0.4s linear;
+  -o-transition: all 0.4s linear;
+  transition: all 0.4s linear;
+}
+
+.ship_item .hotel_img .theme_btn {
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  -webkit-transform: translate(-50%);
+  -ms-transform: translate(-50%);
+  transform: translate(-50%);
+  padding: 5px 25px;
+  max-width: 128px;
+}
+
+.ship_item .hotel_img:hover img {
+  -webkit-transform: scale(1.19);
+  -ms-transform: scale(1.19);
+  transform: scale(1.19);
+}
+
+.ship_item h5 {
+  font-size: 24px;
+  line-height: 28px;
+  color: #52c5fd;
+  font-weight: 600;
+  margin-bottom: 0px;
+}
+
+.ship_item h5 small {
+  font-weight: 300;
+  font-size: 14px;
+}
+
+.ship_two {
+  margin-bottom: -40px;
+}
+
+.ship_two .accomodation_item {
+  margin-bottom: 45px;
+}
+
 
 /*=========== End about_history_area css =============*/
 .gallery_item {
