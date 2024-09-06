@@ -1,25 +1,12 @@
-Thanks for downloading this theme!
+# Star Tours
+Este é um projeto da disciplina de Design e UX focado no redesign de um website para a empresa fictícia Star Tours, uma agência de turismo espacial inspirada no universo Star Wars. Utilizando um template pré-existente, meu trabalho envolveu a adaptação do design por meio de alterações em imagens, cores e textos. Não se trata de um projeto de desenvolvimento, e apenas pequenos ajustes foram feitos no código do template para uma melhor adequação.
 
-## Other Useful Links
+## Instalação
+1. Clone o repositório
+2. Abra o arquivo **index.html**
+3. Alternativamente, execute o comando `python -m http.server` no diretório raiz do projeto, e dirija-se ao respectivo localhost (requer python instalado na máquina).
 
-**ThemeWagon** is a great source for downloading free HTML templates built with the latest technology.
+## Créditos
 
-To download free templates, follow this link: https://themewagon.com/theme_tag/free/
-
-Besides that, you can buy our premium templates for making your web development experience unforgettable.
-
-Visit the store from here: https://themewagon.com/theme-categories/premium-templates/
-
-Alternatively, here's our top most trending and selling items:
-
-* [**Sparrow**](https://themewagon.com/themes/sparrow/) - A multipurpose template made with Bootstrap 4.1 and world's finest animation.
-* [**Posh**](https://themewagon.com/themes/posh-html5-bootstrap-4-template/) - Bootstrap 4 template with a myriad number of ready-to-deploy sections. 
-* [**Elixir**](https://themewagon.com/themes/elixir-elegant-html5-bootstrap-template-consultancy-agency-website/) - Bootstrap 4 agency template. Best for smooth animated scrolling. 
-* [**Freya**](https://themewagon.com/themes/bootstrap-4-premium-interior-design-template-freya/) - Interior design template made with Bootstrap 4. 
-* [**Reign Pro**](https://themewagon.com/themes/reign-pro-premium-corporate-agency-html5-template/) - A corporate template with a visually unique design scheme. 
-* [**Boots4**](https://themewagon.com/themes/first-ever-bootstrap-4-template/) - One of the first Bootstrap 4 templates ever made on earth. 
-* [**Hideaway**](https://themewagon.com/themes/hideaway/) - A template for resorts. Built with Bootstrap 4. 
-* [**Baikal**](https://themewagon.com/themes/bootstrap-4-startup-small-business-website-template/) - A smart Bootstrap template for start-up. 
-* [**Mega Discount**](https://themewagon.com/themes/mega-discount-bundle/) - A bundle of 26 HTML5 templates; best value for your money. 
-
+<a href="https://colorlib.com/wp/template/royal/">**colorlib** - créditos pelo template do website</a>
 
