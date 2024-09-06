@@ -8,5 +8,5 @@ Este é um projeto da disciplina de Design e UX focado no redesign de um website
 
 ## Créditos
 
-<a href="https://colorlib.com/wp/template/royal/">**colorlib** - créditos pelo template do website</a>
+<a href="https://colorlib.com/wp/template/royal/">**colorlib**</a> - créditos pelo template do website
 
